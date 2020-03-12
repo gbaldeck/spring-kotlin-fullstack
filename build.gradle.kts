@@ -4,7 +4,7 @@ allprojects {
 }
 
 plugins {
-  val kotlinVersion = "1.3.70-eap-184"
+  val kotlinVersion = "1.3.70"
   val springBootVersion = "2.2.4.RELEASE"
   val springBootDependencyManagementVersion = "1.0.9.RELEASE"
   kotlin("multiplatform") version kotlinVersion apply false
